@@ -1,5 +1,5 @@
-📝 To-Do List Web App
-A simple and stylish To-Do List built using HTML, CSS, and JavaScript, with localStorage support to save your tasks across sessions.
+📝 To-Do-App
+A simple and stylish To-Do-App built using HTML, CSS, and JavaScript, with localStorage support to save your tasks across sessions.
 
 🔗 Hosted on Github Pages
    [To-Do-App](https://im-avinash.github.io/To-Do-App/)
