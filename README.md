@@ -20,7 +20,7 @@ A simple and stylish To-Do List built using HTML, CSS, and JavaScript, with loca
 
 🚀 How to Run Locally
   ** Clone the Repository
-  ** git clone https://github.com/yourusername/todo-list-app.git
+  ** git clone https://github.com/im-avinash/To-Do-App.git
   ** cd todo-list-app
   ** Open in Browser
   ** Just open index.html in your browser. No server or build setup required.
